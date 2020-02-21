@@ -5,3 +5,5 @@ I am trying to learn
 Editing in Vs Code to github desktop directory to see how version control works
 This is edit number two to see what is going on for revisions
 adding this to tie off on local created branch
+now when i add comments local in vs code do they go to the branch only?
+Maybe maybe not?
